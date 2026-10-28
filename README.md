@@ -35,17 +35,17 @@ An interactive Power BI dashboard built using real-time weather data from the Op
 Weather data is sourced from the OpenWeather API using a developer API key obtained through the OpenWeather platform.
 
 ## 📸 Dashboard Preview
-<img width="800" alt="Dashboard Preview" src="https://your-image-link-here.png">
+https://drive.google.com/file/d/1-ym77yhYcQiEkTP9Q6hZ373o2bDj1OLs/view?usp=sharing
 
 ## 📁 Repository Structure
-
+```
 Weather-Analytics-Dashboard/
 ├── Dashboard.pbix
 ├── weather_data.csv
 ├── weather_api.py
 ├── screenshots/
 └── README.md
-
+```
 ## 👨‍💻 Author
 **Garvit Singh Manral**
 
